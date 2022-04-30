@@ -1,2 +1,9 @@
-# Flutter-simple-editor
-a simple photo editor using Flutter
+# Flutter Simple Photo Editor
+
+## Preview
+
+## Links
+* [My Socials](https://znap.link/CodeWithFlexz)
+* [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
+* [Instagram](https://instagram.com/codewithflexz)
+
